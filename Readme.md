@@ -9,6 +9,7 @@
 > - [React China Doc](https://react-1251415695.cos-website.ap-chengdu.myqcloud.com/docs/getting-started.html)
 > - [React Idex](https://reactjs.org/)
 > - [React 顶层 API](https://zh-hans.reactjs.org/docs/react-api.html#createelement)
+> - [redux](https://redux.js.org)
 
 
 
@@ -17,11 +18,23 @@
 ##  专题
 
 1. [JSX](./jsx.md)
-2. 
-3. 
-4. H0C 高级组件
-5. [组件及生命周期 Component & Life-Cycle](./Component.md)
-6. [ 路由 React-Router](./reactRoter.md)
+2. [事件机制](./Event.md)
+3.  [ 高级组件 HOC](./HOC.md)
+4. [组件及生命周期 Component & Life-Cycle](./Component.md)
+5. [ 路由 React-Router](./reactRouter.md)
+6. [Redux](./Redux.md)
+
+
+
+Hoc 三种 
+
+rander attr 
+
+rander function 
+
+rander  .children 组合
+
+
 
 > 专题是对以下文档的更新 是最新的官方文档的总结
 
@@ -37,7 +50,7 @@ React不是一个完整的MVC框架，最多可以认为是MVC中的V（View）�
 
 ## React高性能的体现：虚拟DOM
 
-###React高性能的原理：
+React高性能的原理：
 
 在Web开发中我们总需要将变化的数据实时反应到UI上，这时就需要对DOM进行操作。而复杂或频繁的DOM操作通常是性能瓶颈产生的原因（如何进行高性能的复杂DOM操作通常是衡量一个前端开发人员技能的重要指标）。
 
