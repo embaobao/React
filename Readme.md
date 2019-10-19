@@ -10,6 +10,10 @@
 > - [React Idex](https://reactjs.org/)
 > - [React 顶层 API](https://zh-hans.reactjs.org/docs/react-api.html#createelement)
 > - [redux](https://redux.js.org)
+> - [动画 react-transition-group](https://reactcommunity.org/react-transition-group/)
+> - [github react-transition-group](https://github.com/reactjs/react-transition-group)
+
+
 
 
 
